@@ -4,7 +4,8 @@ Getting started with Opensource Contribution.
 
 ## Communication
 
-Join our slack for any type of help [![SLACK](https://assets.brandfolder.com/ubhnmsn4/view@2x.png?v=1477944423)](https://join.slack.com/t/opensource-in/shared_invite/enQtNTIyNzMxMTYwNjQ1LTEyZmI4ZjFhOGI0ZDdiNmZiY2IyNTlhNTUwOTE4YjA5YzNiZWU5NTRhMzk1NWYxMzA2YmU5NGQ1ZTA3NjEyN2Y)
+Join our slack for any type of help 
+[![SLACK](https://assets.brandfolder.com/ubhnmsn4/view@2x.png?v=1477944423)](https://join.slack.com/t/opensource-in/shared_invite/enQtNTIyNzMxMTYwNjQ1LTEyZmI4ZjFhOGI0ZDdiNmZiY2IyNTlhNTUwOTE4YjA5YzNiZWU5NTRhMzk1NWYxMzA2YmU5NGQ1ZTA3NjEyN2Y)
 
 ## Twitter Bots
 
